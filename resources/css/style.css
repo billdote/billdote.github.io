@@ -1,0 +1,12 @@
+html {
+  font-family: oswald;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: orange;
+}
+#listItems li {
+  color: purple;
+}
